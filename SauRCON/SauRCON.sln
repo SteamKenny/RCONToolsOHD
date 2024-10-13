@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SauRCON", "SauRCON.csproj", "{83601C01-4272-4287-A8FD-0B7BF40F968A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreRCON", "..\CoreRcon-master\src\CoreRCON\CoreRCON.csproj", "{00E86C75-4DE8-4703-A56D-68C15CA2EFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83601C01-4272-4287-A8FD-0B7BF40F968A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83601C01-4272-4287-A8FD-0B7BF40F968A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83601C01-4272-4287-A8FD-0B7BF40F968A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83601C01-4272-4287-A8FD-0B7BF40F968A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E86C75-4DE8-4703-A56D-68C15CA2EFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E86C75-4DE8-4703-A56D-68C15CA2EFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E86C75-4DE8-4703-A56D-68C15CA2EFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E86C75-4DE8-4703-A56D-68C15CA2EFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5105864D-A74E-4EA5-99D0-688A6696CC7C}
+	EndGlobalSection
+EndGlobal

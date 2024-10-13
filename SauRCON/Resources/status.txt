@@ -1,0 +1,28 @@
+﻿========================================
+Server Name: EU | Kennyland | Casualfield Testing
+Local Address: 0:7780
+Map: As_Vielas [As_Vielas]
+Game Mode: Casualfield Skirmish [BP_HDGame_Skirmish_CQB_C]
+Is In Hibernation Mode: No
+Match State: InProgress
+Session State: InProgress
+3 Human Players, 13 Bots, 0 Spectators
+========================================
+Id #    Player Name                     Unique Net Id
+290     Bot 31                          BOT
+287     SteemKenny                      76561191231231231
+291     HumanPlayer                     76561193213213213
+123     ??????                          76561192132132132
+293     Bot 34                          BOT
+294     Bot 35                          BOT
+295     Bot 36                          BOT
+296     Bot 37                          BOT
+297     Bot 38                          BOT
+298     Bot 39                          BOT
+299     Bot 40                          BOT
+300     Bot 41                          BOT
+301     Bot 42                          BOT
+302     Bot 43                          BOT
+303     Bot 44                          BOT
+304     Bot 45                          BOT
+========================================

@@ -1,0 +1,45 @@
+AddBluforBots
+AddBots
+AddNamedBot
+AddOpforBots
+AddTeamBots
+admin add
+admin addid
+admin list
+admin remove
+admin removeid
+ban
+banid
+DumpActiveRulesets
+exit
+forceteam
+forceteamid
+generatetokens
+kick
+kickid
+NextMap
+quit
+RELOADSERVERCONFIG
+RemoveAllBots
+RemoveBluforBots
+RemoveOpforBots
+RemoveTeamBots
+say
+servertravel
+status
+Bot.Autofill
+Game.AutoAssignHumanTeam
+Game.AutoBalanceTeamsOverride
+Game.FriendlyFire
+HD.AAS.ActiveRouteOverride
+HD.CP.EnforceSmallerMinPlayersToCapture
+HD.CP.MinPlayersToCaptureOverride
+HD.Game.DisableKitRestrictionsOverride
+HD.Game.MinRespawnDelayOverride
+net.AllowServerHibernation
+net.MaxPlayersOverride
+net.MinPlayersOverride
+net.Password
+net.ServerHibernationGracePeriod
+net.SupportersOnlyWhitelistEnabled
+shutdown
